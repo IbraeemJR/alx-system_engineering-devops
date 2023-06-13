@@ -1,1 +1,1 @@
-My first README
+Shell, init files, variables and expansion README
